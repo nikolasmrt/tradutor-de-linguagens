@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.py linguist-detectable=true
+*.tex linguist-detectable=false
+*.md linguist-detectable=false
+*.ico linguist-detectable=false
+*.html linguist-detectable=false
+README.md linguist-detectable=false
